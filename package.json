@@ -1,0 +1,15 @@
+{
+  "name": "spark-interview",
+  "version": "1.0.0",
+  "description": "A package to find the SLCPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna Goetter",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "papaparse": "^5.4.1"
+  }
+}
